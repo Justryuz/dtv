@@ -1,0 +1,28 @@
+# M3U Merger Configuration
+version: 1.0
+
+# Output configuration
+output:
+  filename: merged_playlist.m3u8
+  format: m3u8
+  add_newlines: true
+
+# Input files to merge
+input_files:
+  - mylist.m3u8
+  - 1.AstroIPTV.m3u
+  - 2.ayahee.m3u
+  - 3.astro.m3u
+  - 4.astro.m3u
+  - 5.sooka.m3u
+  - 6.other.m3u8
+  - 7.hello.m3u8
+  - actionvod.m3u
+  - adrewtv.m3u
+  - DewaNontonVOD.m3u
+  - mamu.m3u
+
+# Logging configuration
+logging:
+  enabled: true
+  success_message: "Merged playlists saved to {output_filename}."
