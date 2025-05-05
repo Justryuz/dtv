@@ -1,0 +1,476 @@
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay" tvg-id="TV1" tvg-name=TV1", TV1 HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="Malay" tvg-id="TV6" tvg-name="TV6", TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malay" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM", DidikTV KPM
+https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="Indonesia" tvg-id="TransTV.id" tvg-name="TransTV.id", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="Indonesia" tvg-id="Trans7.id" tvg-name="Trans7.id", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Indonesia" tvg-id="CitraDrama.id" tvg-name="CitraDrama.id", Citra Drama
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malay" tvg-id="" tvg-name="", TV Ikim
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/64355.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29471.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29463.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29468.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29498.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Dunia_Sinema_Old.png/revision/latest/scale-to-width-down/1200?cb=20230119131035" group-title="Malay" tvg-id="" tvg-name="", Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55212.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/28897.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3098.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/28935.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/3113.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29497.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29460.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/60214.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3149.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU" group-title="English" tvg-id="StarMoviesHDIndia.hk" tvg-name="StarMoviesHDIndia.hk", Star Movies HD India
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29459.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs4Eqo0KJ3Ai5Kj2KefcZtsbNt5AV-mjKMQ&usqp=CAU" group-title="English" tvg-id="FXEast.us" tvg-name="FXEast.us", FX East
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/3127.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/59224.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/59225.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3096.ts
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="English" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="English" tvg-id="" tvg-name="", Douyu Movies
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/152-1523708_pbs-logo-pbs-tv-logo-png-transparent-png.png" group-title="English" tvg-id="PBSAmerica.us" tvg-name="PBSAmerica.us", PBS America
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/28779.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/3114.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/3126.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/3138.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="English" tvg-id="StarMoviesSelect.hk" tvg-name="StarMoviesSelect.hk", Star Movies Select
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" group-title="News" tvg-id="AlJazeeraEnglish" tvg-name="AlJazeeraEnglish", Al Jazeera English HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/3120.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="News" tvg-id="CHN" tvg-name="CHN", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://arirang.com/images/index/arirang.png" group-title="News" tvg-id="Arirang" tvg-name="Arirang", Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" group-title="News" tvg-id="France24" tvg-name="France24", France24
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/60367.ts
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/box-hits.png" group-title="Entertainment" tvg-id="BoxHits.uk" tvg-name="BoxHits.uk", Box Hits
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/28816.ts
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Entertainment" tvg-id="TraceUrban.fr" tvg-name="TraceUrban.fr", Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="Indian" tvg-id="SunTV" tvg-name="SunTV", SUN TV HD
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55249.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Kids" tvg-id="NickJr" tvg-name="NickJr", Nickelodeon Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="Lifestyle & Documentary" tvg-id="551" tvg-name="551", National Geographic HD
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3020.ts
+#EXTINF:0 tvg-id="709" tvg-name="AFN" tvg-logo="https://i.postimg.cc/nVWkWG2s/afn.png" group-title="Lifestyle & Documentary",Asian Food Network HD
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/64343.ts
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh 
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports" tvg-id="CHN" tvg-name="CHN", Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="Sports" tvg-id="TVSUKAN" tvg-name="TVSUKAN", SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Sports" tvg-id="CHN" tvg-name="CHN", FightBox
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/28817.ts
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", AMBOI FM
+http://amboifm.iradio.work:8000/stream
+#EXTINF:-1 tvg-logo="https://i3.wp.com/image-bunny.tmdb.org/t/p/w185/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", The Card Counter (2021) 
+https://www.googleapis.com/drive/v3/files/19DXteRi_H1tKRY4hRHwbeir1Km1hAA-n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i3.wp.com/image-bunny.tmdb.org/t/p/w185/15GQh5pUXzPSvZ0GmqsYeUSlhUw.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", The Invincible Dragon (2019) 
+https://www.googleapis.com/drive/v3/files/19uyGdVlHea9JED5CF4Iq5Rs3PpQMKsNS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i3.wp.com/image-bunny.tmdb.org/t/p/w185/8xEVAe84zlL9rkfYT6dZXero4KK.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", THE MATRIX RELOADED (2003)
+https://www.googleapis.com/drive/v3/files/1YVs5kuH4IpE9nQBdxSHmp_-tK8IsPTyW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="VOD English" tvg-id="" tvg-name="", Mission Impossible Fallout (2018)
+https://www.googleapis.com/drive/v3/files/1z4k-_cIPgoTL-qUiS9jt95On6FmfTs5g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Malignant (2021) 
+https://www.googleapis.com/drive/v3/files/1r1LAc4gIRlIFJAjvOBDvDuPHek7CAOo4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/1sHH629kR3ZDmPfL90JkUWew4wz.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Masquerade (2021) 
+https://www.googleapis.com/drive/v3/files/1ejcmKyRCcTRG7khTLThq563yR-SgXsOJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ecx.images-amazon.com/images/M/MV5BOThhNTA1YjItYzk2Ny00M2Y1LWJlYWUtZDQyZDU0YmY5Y2M5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Mission: Impossible III (2006)
+https://www.googleapis.com/drive/v3/files/1PuMUxBTP3NN9wBS7RGXcmd1L0V8I_tro?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/12mI7kU22nJrmtAgGcDP8tbAz4a.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Mission: Impossible II (2000)
+https://www.googleapis.com/drive/v3/files/10G5oTFbU0DSSf5sNi4VANujO6HmJCJSc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Munich: The Edge of War (2022) 
+https://www.googleapis.com/drive/v3/files/1RGax8OzbTnSZdJvH9zWyOzc-cP5DjleH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/94Bv22K/47-Meters-Down-Uncaged-2019.jpg" group-title="VOD English" tvg-id="" tvg-name="", 47 Meters Down: Uncaged (2019)
+https://www.googleapis.com/drive/v3/files/1W49D9iHci1_xKkR437Ok00vtByLPWbKG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWE4hRqxbB4sCmy4HeVosiLawouVRC7YAOtQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Die Hard 2 (1990)
+https://www.googleapis.com/drive/v3/files/1DHlv8WnIB9yfgWybDQu7WfNenPjw5bzt?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHF3YcicaEVE_msNU1UBCFmVuQjFdf27VeIw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", X2: X-Men United (2003)
+https://www.googleapis.com/drive/v3/files/1Oylq7WiqqcLsuqRlLLpi8T7ZprlOI53Q?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0Wbkdykxij_7ywwfhvWc4PYElouYxFCQIA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter and the Philosophers Stone (2001)
+https://www.googleapis.com/drive/v3/files/1btrgR_4dVAUbh1mliqSK6Z1Y2L69_Sd8?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIy6n5MDhCOc5KaOopkgSZYMjCHHidJbNtg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Live Free Or Die Hard (2007)
+https://www.googleapis.com/drive/v3/files/1t08g5iWzzIvqVv4xV0fPyA2Bub1LkZUc?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLU3K8P85jB8YsGgIMTewravfx-KPvUOO7Iw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Step Up 3D (2010)
+https://www.googleapis.com/drive/v3/files/1OVEZKE-fJCuQ2jY_YNaAT5_eFibaUYHZ?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMftI6sICMQeE03KONFsqHVCLUOouPBIWPvg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Step Up 2: The Streets (2008)
+https://www.googleapis.com/drive/v3/files/1890IlWCjtnhNMDV13M4ssu2FSLyXU35B?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Spider-Man  (2002)
+https://www.googleapis.com/drive/v3/files/1FvevVpEkOC_VpNlP2eMF6EcTLClYck1n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/2jLxKF73SAPkyhIWrnv67IH7kJ1.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Spider-Man 3 (2007)
+https://www.googleapis.com/drive/v3/files/1FX_805Q7Au3q8uN0n3xWxqkLeewxNEKZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMftI6sICMQeE03KONFsqHVCLUOouPBIWPvg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Step Up 2: The Streets (2008)
+https://www.googleapis.com/drive/v3/files/1890IlWCjtnhNMDV13M4ssu2FSLyXU35B?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/6ZYOpyhFZrAQIe1BuhqVgzfAdGZ.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Superman Returns (2006)
+https://www.googleapis.com/drive/v3/files/1cHN_8eCfguLLlCoz9bWBuNJWyJpBUchp?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/deadpool-lektor-2016.jpg" group-title="VOD English" tvg-id="" tvg-name="", Deadpool (2016)
+https://www.googleapis.com/drive/v3/files/1wD-tA6h5oozeLZ_5ZkyTpufGkwEjEG8_?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Guardians-Of-The-Galaxy-Vol.2.jpg" group-title="VOD English" tvg-id="" tvg-name="", Guardians of the Galaxy vol. 2
+https://www.googleapis.com/drive/v3/files/1SBdTw5uwSomzz_3moZv-tGyXlqqBG0Cj?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 2 (2011)
+https://www.googleapis.com/drive/v3/files/1_t07hpXkza3F5QOklu33INO0TkI1Zdnc?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTugaq2ExGlLji-2JbVNCJ5vFkrUmKgyppXA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Iron Man (2008)
+https://www.googleapis.com/drive/v3/files/1nU9EIp4MATtajUFeeSosEAk9zp5ZokCR?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Y2i54Etpx7JvCxj6D8P3VAH152.jpg" group-title="VOD English" tvg-id="" tvg-name="", Step Up (2006)
+https://www.googleapis.com/drive/v3/files/1EsR9irHOPOHH5sZqMHMSKCntbRmVsGml?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring 2 (2016)
+https://www.googleapis.com/drive/v3/files/1wTfOIP07rjsa2AO-SzU11wMPruOkXOsm?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/american-fighter-2021.jpg" group-title="VOD English" tvg-id="" tvg-name="", American Fighter (2021)
+https://www.googleapis.com/drive/v3/files/1BkQFuFlO44zE1EjqI4vmfAPKNehLzVaS?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNzU3MTA3Nl5BMl5BanBnXkFtZTcwOTc1OTYzOQ@@._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Java Heat (2013)
+https://www.googleapis.com/drive/v3/files/1loAfk98tVQOiXZPco7C-hA4e73qK3-8_?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg" group-title="VOD English" tvg-id="" tvg-name="", Avatar (2009)
+https://www.googleapis.com/drive/v3/files/19AlEoe1Ik1Fi_RF57e-S2VWo5CULjaOi?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy6j7gb8gdpwBRMk0Lfqr4niLXmBnBxpzXgw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Bourne Supremacy (2004)
+https://www.googleapis.com/drive/v3/files/18zGKP8HVztLLwh1fdNm0cdYRwSbYOoa0?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhimRc1fcq0tbEz1Nr_WS8ImMmi88IJYpkg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Twilight Saga Breaking Dawn - Part 1 (2011)
+https://www.googleapis.com/drive/v3/files/1yBd-f-ze_UM_x7BeaLHIzY6Agmp7hLuC?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPhbLZVL4Auj-Js3dgxy57EgZSCTPZ2t6OQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Bourne Identity (2002)
+https://www.googleapis.com/drive/v3/files/1XREn9lxPDfBGWMEZA678-JARaJlABwHX?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdSn6pUoBANN1cMZVCCFyR7Qmfj5MqGbvAgQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Bourne Ultimatum (2007)
+https://www.googleapis.com/drive/v3/files/1Kq4xCUzVxxw7Zq8GaPLuxayRhE7XCuBH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4Mjk2MjA0NF5BMl5BanBnXkFtZTcwMzMyNjQ3Mw@@._QL50_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Last Exorcism (2010)
+https://www.googleapis.com/drive/v3/files/1iAttqmsLPD2t_wFqj8CQ2INr9sdZyNmv?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRnegdgtM0WO7eNlzEobF6su2ddHw_RIl-Rg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Final Destination (2009)
+https://www.googleapis.com/drive/v3/files/1OZkjxeBg9gE7xPsc42ngIfMlFhPQfPmY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfzRxDnBFbM3HiRsQB0zujWZdF623fPW78w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Mortalkombat
+http://srv44.nf21.net/files/10-2021-04-27-a0b85adabf8a41a9ea4a6ba616ee2109.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Chronicles of Narnia The Lion the Witch and the Wardrobe (2005)
+https://www.googleapis.com/drive/v3/files/1NC0uZUrIp2UoGvCKMDrUIYEaF82XhphE?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Wonder_Woman_%282017_film%29_poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wonder Woman
+https://cdn.jwplayer.com/manifests/nNjeV7v1.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/eA8uvsjzlQp6kWr4AMa8WIYY8G7.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Alas Pati Hutan Mati (2018)
+https://www.googleapis.com/drive/v3/files/1iGBhwZP9JmvV72t9NDW8CotWv_mZsWM2?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI2M2E0NDktMGJiZS00YTQ3LWJiMDQtNTAwMTM4YmNhNzMyXkEyXkFqcGdeQXVyNDEwMjM5MDA@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Kampung Drift (2016)
+https://www.googleapis.com/drive/v3/files/1yXeJE564k6N_wxOOC-mXQh_ihx0h7mzO?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Jk7vPuGpWyc/Unp7ors51XI/AAAAAAAAAk0/5Z-03RuUyLk/s1600/highland_tower_poster_01.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Highland Tower (2013)
+https://www.googleapis.com/drive/v3/files/1eScpmBAT8iP4hS1sl5_zzxo1xi_Q_36Z?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="http://images.moviebuff.com/1ea7693f-cfab-4b17-ba59-abed5a3ccee3?w=600" group-title="VOD Malay" tvg-id="" tvg-name="", Blok 404 (2001)
+https://www.googleapis.com/drive/v3/files/15BBUyqIirRr3TVvSr6fULSqIJxyRydta?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/E4tS5hrmWj2Whhzne3W2prNuTI.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Bisik Pada Langit (2017)
+https://www.googleapis.com/drive/v3/files/1TMrSxSChAbCrcoyetDVE8QOmnaoKkIz9?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Abang Long Fadil (2014)
+https://www.googleapis.com/drive/v3/files/1IzE2fdB9Tlc0AlgV9WRe0K5f8Y7XxTMb?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/neO0c69wGECyhx7XSUyDFXGgvAX.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Ghibah 2021
+https://www.googleapis.com/drive/v3/files/17X4vAn8gfCFFeVeW-ogG4DYIsYOt1Ooi?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/J_Revolusi.jpg/220px-J_Revolusi.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", J Revolusi (2017)
+https://www.googleapis.com/drive/v3/files/1DMs-_0bDAhYxW-Dbo61DrWXkVg7bDs98?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/4112.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Kampung Zombie (2015)
+https://www.googleapis.com/drive/v3/files/16JOOVbGvRPxwdjMAruUeAJRb5DmWX0FT?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q5ZTFiMDUtY2RjZi00NGFiLTk4MGUtY2E3YWQ3Zjk5OGY4XkEyXkFqcGdeQXVyMjY1MDkyMzY@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", KL Zombie (2013)
+https://www.googleapis.com/drive/v3/files/1_G3yXeeKeGMHAcySTwLOBwxmAJ1-febt?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJkODU3YjctZTY0Ni00NDU5LWIzYTEtMDY0NjYzNjczYzA0XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Munafik (2016)
+https://www.googleapis.com/drive/v3/files/1sDbIWL0wVU5BD_gZ0zyR5hJtMzA2rAGP?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjYjZmMzUtOWUzYy00MDkwLThhMWMtMDdiYjJjNzcyNzRhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Pendekar Bujang Lapok (1959)
+https://www.googleapis.com/drive/v3/files/1H2FgJJF1nzlNsePK_3DHDPLKvZsTa05d?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/cxYCqMGX3vlBfFNO5RrCUZ2LONS.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan (2015)
+https://www.googleapis.com/drive/v3/files/11SniP8mGMudeIhUVx6QwMP42JgwHihbC?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ifugXbVH4OGhc1QQuGIh4QITdsU.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan II (2017)
+https://www.googleapis.com/drive/v3/files/1vOgC8xTOteHlGUFjPr_izOWchBrh783K?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/7037.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Tombiruo (2017)
+https://www.googleapis.com/drive/v3/files/1ZJlxKvPUyRErztXJAcE7TpLquvOGTqE1?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3NNGZq39eJ1h3ML7HDwpJdsRStA2dFpK9Q&usqp=CAU" group-title="VOD Malay" tvg-id="" tvg-name="", Langgar (2013)
+https://www.googleapis.com/drive/v3/files/1BdyOMkZYtfYjqUImkq4KCql7vPs-0K3-?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_K-LJ6awLx-P-ORaaVnEeWhkomCHnUfVhg&usqp=CAU" group-title="VOD Malay" tvg-id="" tvg-name="", Polis Evo 2 (2018)
+https://www.googleapis.com/drive/v3/files/1OQivY3kLR3dqY_FXqbRPGmAguBPJjAGn?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Fate Of The Furious (2017)
+https://www.googleapis.com/drive/v3/files/1r35Zw5-YmPjC1qiCFKe-I1C9AA5dwufg?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Fast and the Furious: Tokyo Drift (2006)
+https://www.googleapis.com/drive/v3/files/1t8RgTc4Wbd2VdUcm8iB7PyXUheqVPaYp?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-id="OKEY" group-title="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg" group-title="VOD English" tvg-id="" tvg-name="", Fast & Furious: Hobbs & Shaw (2019)
+https://www.googleapis.com/drive/v3/files/1VmVA4e7WCNv1-F9S9inwRiFBOLcCQP0f?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/3099.ts
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p192847_p_v10_af.jpg" group-title="VOD English" tvg-id="" tvg-name="", Transformers: Revenge of the Fallen (2009)
+https://www.googleapis.com/drive/v3/files/1oAIf-SSD_GGKRL8Hvidtn7s0fAALVXMb?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCKjOE8E13R45SBIPcypN_yyfCJKxPoCw7w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", X-Men : Dark Phoenix (2016)
+https://www.googleapis.com/drive/v3/files/1LZf02PNBC4Ift7DheHPF4YQyG3n_fMMh?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/n5Re2ywnpqwAXTin8W5j3lqSwc7.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wrong Turn 2 Dead End (2007)
+https://www.googleapis.com/drive/v3/files/1XQI8y6RFwaXgIWAEWLZpPVzu5s-yrUbl?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wrong Turn (2003)
+https://www.googleapis.com/drive/v3/files/1oVn2NUVahUBg5-D-yveBFy9_xsb-BFLd?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/84s4LMWuGbm4xPWW5PSbHyQhh33.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wrong Turn 3 Left For Dead (2009)
+https://www.googleapis.com/drive/v3/files/1qz4XxzXGRtFdH-Me8qDVYjzrVdQLsXCi?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/3EP4OLu.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Ada Apa Dengan Cinta 2 (2016)
+https://www.googleapis.com/drive/v3/files/1XNOxWcc0TOqhBQo9gXO9yQxolfcN5pJm?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://i3.wp.com/ecx.images-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", The Lost City (2022)
+https://www.googleapis.com/drive/v3/files/1yToUG8IxWSuZixvLzTOHxxnshMSKUOTo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/cmGBe9zR1Lxxn1GpaWibFn0EFPv.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ghost Rider (2007)
+https://www.googleapis.com/drive/v3/files/1zfdUUh_W_IX7MqgxKf7IfvY4uLfBVwEm?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ghost Rider Spirit of Vengance (2011)
+https://www.googleapis.com/drive/v3/files/14vec76nLSOZWHNfjVZfw0qJy3yxsa1PF?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="http://tny.im/oQ-" group-title="VOD English" tvg-id="" tvg-name="", Grown Ups (2010)
+https://www.googleapis.com/drive/v3/files/1IGykop35Hcrs_CmwItJE5xz2tTAAz_DW?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="http://tny.im/oQZ" group-title="VOD English" tvg-id="" tvg-name="", Grown Ups 2 (2013)
+https://www.googleapis.com/drive/v3/files/1YHBVh7tjwKDgU7OBx60l3ZjdI-GXFpY4?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="599375885ceaac3cabccbed7" tvg-name="599375885ceaac3cabccbed7", Cats 24/7
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvrqY9bQr8JTZ0IB-dna-w-dGtDaWDrNwSw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Insidious (2010)
+https://www.googleapis.com/drive/v3/files/10yLrHW5tiL2IHgVS2nirWo_rIz2mlXOS?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpV1eAKFr7wPracnhcqROnUqzG-pWL5B_1wg&usqp=CAU" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fashion TV Film
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Food TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Full Custom Garage
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tBvEL2d.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1vhLbigWuIaYMTXk_7Sg37L84jY9tRNk4g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", John Wick Chapter 2 (2017)
+https://www.googleapis.com/drive/v3/files/1BWXOLdlpmezHvDXt09-KntVHuR2BtvEL?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6vLXE4XnjaD_FIoTLfH1ihk7aVvKawxgGzw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", John Wick Chapter 3 - Parabellum (2019)
+https://www.googleapis.com/drive/v3/files/1d-8jp0wselMiDECiCyPo6zz5Vxg-86uk?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg" group-title="VOD English" tvg-id="" tvg-name="", Men in Black 3 (2012)
+https://www.googleapis.com/drive/v3/files/1hIq_7m6jtEO0RrhSCY3NaW4LysM_WOj9?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZEhZswzvAVb8RVTv7YhmgV9C4TijNQCHu5JsDTJkMLUrHTu3elZgPubjfvy3nEds949A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Mission Impossible - Rogue Nation (2015)
+https://www.googleapis.com/drive/v3/files/1ChcA1u9D1t1ejchklYbOMgEAlji7aJO1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://img.hindilinks4u.to/2018/10/Meow-2016-206x300.jpg" group-title="VOD English" tvg-id="" tvg-name="", Meow (2017)
+https://www.googleapis.com/drive/v3/files/1qcepF3rxt4AmsDjQyXmlpcpNseIDM2rk?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="Kids" tvg-id="" tvg-name="", KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Entertainment" tvg-id="" tvg-name="", Live Music Replay
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Kids" tvg-id="" tvg-name="", Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQInLji.png" group-title="English" tvg-id="" tvg-name="", My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/45FLfu74nXjhNHhbsTJ4ROsGLR5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Percy Jackson and The Lightning Thief (2010)
+https://www.googleapis.com/drive/v3/files/1UIC6io_S81L8oYBHbtJqtFg6uusgDOtL?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Americas_Test_Kitchen_190x190.png?raw=true" group-title="Lifestyle & Documentary" tvg-id="AmericasTestKitchen.us" tvg-name="AmericasTestKitchen.us", Americas Test Kitchen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=605&deviceId=5e84f54a82f05300080e6746&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:zaltv.co
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="PlutoTVWorldPokerTour.us" tvg-name="PlutoTVWorldPokerTour.us", Pluto TV World Poker Tour
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e738977e2c31094a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Western" tvg-id="PlutoTVCMTWesterns.us" tvg-name="PlutoTVCMTWesterns.us", Pluto TV CMT Westerns
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/red-2010.jpg" group-title="VOD English" tvg-id="" tvg-name="", RED (2010)
+https://www.googleapis.com/drive/v3/files/1xT5JGtLUqI4Z8vYLf21AzzdplBr7z1iD?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlCLslZNCflJgZOAUNN2XEV3RTg.jpg" group-title="VOD English" tvg-id="" tvg-name="", Rurouni Kenshin - The Beginning (2021)
+https://www.googleapis.com/drive/v3/files/1T7ZKCGocfApYmQL2w2PkPAiEfgM53_3Y?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="http://hostengine.live:25461/images/3df2189c2096b12b98f715fcbbc92c47.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Black Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Action
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddf930548ff9b00090d5686/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Pluto TV Food
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Pluto TV Cars
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Crime Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Pluto TV Home
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6022bd17849c620007f43ae0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/An93hAh.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Movies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="English" tvg-id="" tvg-name="", Flicks of Fury
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports" tvg-id="" tvg-name="", GLORY Kickboxing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="English" tvg-id="" tvg-name="", Pluto TV Thrillers
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsAEFXy_JQZRfoq_n21QefoKTteVTRUEIXfA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Bourne Legacy (2012)
+https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7neNQhJvXXMtQY8DNivM9Ocnt1mG_pzWALA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Hit List (2011)
+https://www.googleapis.com/drive/v3/files/1Jc2zmR0VChnQPYkFKLyBttpOCRMmtES8?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/zgwRTYWEEPivTwjB9S03HtmMcbM.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Last Airbender (2010)
+https://www.googleapis.com/drive/v3/files/1t8NGd3lbloC0RbW_Zl2xEjwU8H2OhLLC?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ekJxJ037GWBrqIR8FX7Kh7daaR9.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Legend is Born Ip Man (2010)
+https://www.googleapis.com/drive/v3/files/1Ch8BliM3I18yqH7XLkCiw1Sw_IMAcUJL?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYiWrnjxsIe4VlvH5A1wds7Jl_45ME34Gbw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Transporter Refueled (2015)
+https://www.googleapis.com/drive/v3/files/1Ka-Gk-afLWlTkWCiID2pNbUY6jlJY6KM?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz33_EKj4h9CtPDqzqtj7y5de7sQAtJ7IaVw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Witches (2020)
+https://www.googleapis.com/drive/v3/files/1U-2_qVF8Bi1KGGL2c4oelzTfYO4wK6ur?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg" group-title="VOD English" tvg-id="" tvg-name="", Transporter 2 (2005)
+https://www.googleapis.com/drive/v3/files/1aHNMwzVw8B8H7b_HkW8tYfyhw7DyNMdi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/3123.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJS3OfVYjg3jYKldWIMKnc2zZgh3coU6PgTw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Night at the Museum Battle of the Smithsonian (2009)
+https://www.googleapis.com/drive/v3/files/1no006Kw4vHpFQ3VzE9cUvJore0bmtira?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-La6L-MXfjNGbtftqGeMUWCZVbsPTOEKOsg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rurouni Kenshin (2012)
+https://www.googleapis.com/drive/v3/files/1KBGWb9Vf8qMfG8K_ABQL6UiYKT0JbxIK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6srVjZ_bVT4feCIlDpONshz1bphyc2LSopA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Rurouni Kenshin: The Legend Ends (2014)
+https://www.googleapis.com/drive/v3/files/1Zyglg3PmfiuEL9izN3NTwcFpLf5dYK8J?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0KrH2ToROrFLlTRov7V2CRuneBz1-CwNO6w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Transporter 3 (2008)
+https://www.googleapis.com/drive/v3/files/1KecYpsXXUIpsM8u3spCJzRc37xo0fgKz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/sRzSfpSb3wYYshbaiMRIuFCJJGU.jpg" group-title="VOD English" tvg-id="" tvg-name="", CJ7 (2008)
+https://www.googleapis.com/drive/v3/files/1iUh2Fp4pJnyGI2ytIhOH02281PKleu2B?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kfpyy1d9ZgUzQ3KV0x2ZfR7Iuek.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman Returns (1992)
+https://www.googleapis.com/drive/v3/files/1_2fZ9iyKagydmuR6mYDmeB_DWeiTX9Tl?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7XC0HNxWK3zpXA7O-j-giGYYZihdS8bQDw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Goosebumps 2 Haunted Halloween (2018)
+https://www.googleapis.com/drive/v3/files/1y3HEZYWANDAENkmfc2fyY34uf5h4_cXt?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/gLZEULfcS3uhfWDSEclOUgWiN41.jpg" group-title="VOD English" tvg-id="" tvg-name="", In the heart of the sea 2015
+https://www.googleapis.com/drive/v3/files/15AVYp5SdhfZATK9TFg48vRX3xvMnWYWi?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/sVpJcOQsR2wBCY9xMJXWCURxSMS.jpg" group-title="VOD English" tvg-id="" tvg-name="", Jeepers Creepers 3 2017
+https://www.googleapis.com/drive/v3/files/10zgvCwG3L7vMpBpjrN03NIPhZw0TPjz1?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIILHyIr2k-Po5OHg7e1uod-iXIEgGMjBQg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Main Hoon Na (2004)
+https://www.googleapis.com/drive/v3/files/1JjWlXnagNW0w2qy1knObMsSRRC3dcey2?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/4xxQq3mHTuPRnEBIqkVDWldq0Sk.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon A Time In China IV (1993)
+https://www.googleapis.com/drive/v3/files/1v6ecHrfti_ROtEiMEtnz9TbLhR8IfMpu?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/7WSPc5O2Gt50LptPWVVBgixGRis.jpg" group-title="VOD English" tvg-id="" tvg-name="", Nanny Mcphee (2005)
+https://www.googleapis.com/drive/v3/files/1MYWVKPyF_7j4cXKXe-1PoP8FZ61FhS8X?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAyMjRjMjQtNTFmNC00NDdmLTg5YzYtZmRkNmQ3NTY1MGI5XkEyXkFqcGdeQXVyNTQyODc1OTY@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Once Upon a Time in Shanghai (2014)
+https://www.googleapis.com/drive/v3/files/1Af9J6zz-EiyH2mCBaFom2mvsEePoL6hH?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/aLjBcVUfw3eT5csKi28pvs0V8he.jpg" group-title="VOD English" tvg-id="" tvg-name="", Romeo Must Die (2000)
+https://www.googleapis.com/drive/v3/files/1b3dF3_RhZmnfVppSS_O0ZGgo91oXIIVW?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2BiTt_0eBRhhhKxvqN9Mj-hrnTHVMGQijg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Red Notice (2021)
+https://www.googleapis.com/drive/v3/files/11eyIRds5vv5SO-TJqRPUs1Dz0gFFJop3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWwHj2JKp1CmwHqbCP2zyPggYMqWxMxdx8Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Kate (2021)
+https://www.googleapis.com/drive/v3/files/1AMW1odpW7RK5YbSP8K53h06Q4eS3Jvth?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqqLNOZGHZcSLfGny3MDRelo6jct5x-Qvlg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Major Grom: Plague Doctor (2021)
+https://www.googleapis.com/drive/v3/files/1nOkHdAyVi8cM_40rsfrUTmm4JiNtWEcN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ5NjA2NDg1MV5BMl5BanBnXkFtZTgwMDAzNDc4MjI@._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hitmans Bodyguard (2017)
+https://www.googleapis.com/drive/v3/files/1sIzHvObJ48jj2aLQxMbzklI7knTVdcLS?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXceXCeHpEhqi_NX4WbUJQaud2_LYGMCbQQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Venom (2018)
+https://www.googleapis.com/drive/v3/files/1QyE0dL-_qXayNjla0xM1C2WaFu8-XFGI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLs6O6Sl8ZHFQZqr0g-fPshg7SLm_14SiuIg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Venom Let There Be Carnage (2021)
+https://www.googleapis.com/drive/v3/files/1gHi7PxqUIHZPdGqby04ZJHnwvPLQPv70?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Extraction (2020)
+https://www.googleapis.com/drive/v3/files/1EKH3FAOHQ5cxxHBsRqJXGUayZCv-UALz?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Sonic the Hedgehog (2020)
+https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Western" tvg-id="" tvg-name="", Pluto TV Westerns
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlXAe2xzx48hxG4xINW8NVliUVhHpR3wuhQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Pluto TV Crime Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=350&deviceId=5f31fd1b4c510e00071c3103&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/60145.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/64353.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29466.ts
+#EXTINF:-1 tvg-logo="http://muttsnutts.shacknet.biz:8080/images/79a895a59163d92ba19aabfd607b7c9a.jpg" group-title="VOD English" tvg-id="" tvg-name="", Oz the Great and Powerful (2013)
+https://www.googleapis.com/drive/v3/files/1-zuMH3XvmEPH-5JEKyS-gzMXd36Ooz1k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="nologo.png" group-title="VOD English" tvg-id="" tvg-name="", The Amazing SpiderMan 2 (2014)
+https://www.googleapis.com/drive/v3/files/1QFO17JGU1OxeOxnau95LLOX17bexkGxv?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", SpiderMan No Way Home (2021)
+https://www.googleapis.com/drive/v3/files/1Byyhz8EKBBzb0Jp5s2UdBV2MGE6qaXNA?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="Sports" tvg-id="BeInSportsXtra1.qa" tvg-name="BeInSportsXtra1.qa", BeIn Sports Xtra 1
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29573.ts
+#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD English" tvg-id="" tvg-name="", Chasing the Dragon (2016)
+https://www.googleapis.com/drive/v3/files/1M6tJl-g525niGHW11aIwN1L6TosUZQb3?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/vclShucpUmPhdAOmKgf3B3Z4POD.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Old (2021) 
+https://www.googleapis.com/drive/v3/files/1GxlZKEAIITp3BfoJzWQQaQ063xIzC9Qa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_SY1000_CR0,0,669,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Sherlock Holmes (2009)
+https://www.googleapis.com/drive/v3/files/1wn8bmqRRmRDeNsvhHrshzbFXGP4x-tgP?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzB11pQkRg3-zYFsF_4xarVMl36rZWAR3X7Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", X-Men Days of Future Past (2014)https://file.g8qu.me/?redirect=QXiQWYvxmb39GZiwSZ1JHdsICcwIzNiwiIJtUQ1EDd0ZGavllIsISP9c2VONjYQ9Fb3hHcS12T6RWZSBzXrp1VQV3czkVc3UFRFJFTPhDMClUYZ9UQpFUV3YWO2UVSxcHRGdHMLVUauZXdptEW2QFb6VDNVZkQP10MNhHc3ZzSJ9VSBhWSRJ1dBh3XDNzRB1zZpNHbmwGcskmdtxidtxyctxibtxSbtxCat1zctFmchB3csZCOxIUcCNXdndmS29mV0ZHcKhWSWZzZxEzaDd2TWVDcDdWe4ZWWLpWT5ZHSJN0bzcWL3kGR2d1avdjcMJ3R3B1UfBXeztmdMRldr9lVPFEetlzQphker50RnlUQSdHOKFFMx9UQ9cWazZCdtxGLyVHZsYncwxidyBndsUWbp1GLwBXYsQWalZXayRGLjNXdzxCb0RHLsN3clJXa1FXZyxSZjJXdvNHLnFGdpxCZpxCcjxCcpxSalxSZylGc4VWPz1WYyFGczZSRO9kT9AHchJWdzZSO0cjNxMDM2YTM9QXbmgzMygzN2kTMwYDN4ADM2ETP01GbmQzM04SN5gzN9IXdkZSM9YncwZSM9YncwZnJ0AXbv8WZklmd9UWbp1mJyVmcvxGc4VWPwBXYmo1VGRzZyBDe4IFR3p1Tr10Zvh2Z0Rzc6ZWV5EzNTRHbx0DZpVmdpJHZmIHZ9M2c1NnJ05WZpNnbhJHd9wGd0ZiNy0DbwZCN9kmdtZSd9YXbmU3c9MXbmM3cul3N1AHat42c94WbmIzM90WbmIka9gWbmMXZ51DbzNXZylWdxVmcmUmdpJHZiV2d9U2YyV3bzZiMy0zZhRXamkjNxQ2N1YDM4ETMzYjN4MWPklmJ0IjT2xGMkBHbINFdBFDZMJlMVlFZVlVejVFTmxmVVxEbIRWds1GZhxWMWVjSxo1M4d0U1MGVaFHcr9EUoFjUUZlRVZmUrVFTSZVU9A3YmYjNuETNuAzNuYDNx0DcpZCNBBTeDRGcQVFT6JDTwZEZpVXWyMzR10TalZiN1UTMzMDM2YTM9UmcpBHel9zajFmY5FGbw9WZklmdv02bj5SZsd2bvdmLlZXayRmLj5ycz5We3UDco1ibz1SLtQjcy9yL6MHc0RHaiwiI0EDMyAjMlQ3chBHMyUSZyVHd1ZGMyUiZvBjMlMXehRGMyUibl1GMyUCewITJtxWamJyW
+https://www.googleapis.com/drive/v3/files/1YKzNaFlV9Y_N7UvmZmuhuYCyGrL5mn8e?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/550.jpg" group-title="VOD English" tvg-id="" tvg-name="", DRAGON BALL SUPER BROLY (2019)
+https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/6pLPWF7AXhljLJf8WTli9BuVfyv.jpg" group-title="VOD English" tvg-id="" tvg-name="", Underworld Rise of the Lycans (2009)
+https://www.googleapis.com/drive/v3/files/1dOiK9v9ubjSNj6vdzH4lsqSswwj8SKvi?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ecx.images-amazon.com/images/M/MV5BMDA3NWZlNjUtYzZhMi00ZWYxLWEzNWEtZmYxZjhmOGI0YjBmXkEyXkFqcGdeQXVyMzExODEzNDA@._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Hotel Transylvania: Transformania (2022)
+https://www.googleapis.com/drive/v3/files/15d2G9AqhvG_OwR35w7MPlkkm7EqVd3iK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1LJAVxvoXfxdJfBmd9tKZcH4oSqODBjaNg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Despicable Me (2010)
+https://videos.files.wordpress.com/g3WNpYqU/despicableme_mp4_dvd.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHR2Ii6zlVVcNzbN3idvzlPGXfTgHH48ZiAw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Despicable Me 2 (2013)
+https://videos.files.wordpress.com/3Flbt8SJ/despicableme2_mp4_dvd.mp4
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring (2013)
+https://www.deadlyblogger.com/NewRelease/conjuring.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring 2 (2016)
+https://www.googleapis.com/drive/v3/files/1wTfOIP07rjsa2AO-SzU11wMPruOkXOsm?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png" group-title="Kids" tvg-id="" tvg-name="", Tom & Jerry HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&extension=ts&play_token=GV8NUy0FxS
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://muka03.wanicelife.com:8880//live/kg14m3n1110/dssewaas123/3221.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29455.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
